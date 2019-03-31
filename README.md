@@ -5,10 +5,6 @@ find your repo in list and turn on builds for it
 
 See your build results here - https://travis-ci.org/StartITProtractorJS
 
-# startit js ui automation course
-// Demo project for startit students
-
-
 To make sure everything works in this initial repo:
 - clone
 - do `npm install` in root of this repo
@@ -34,6 +30,4 @@ Stdout:
 
 Test Suites:     1 passed, 1 total (100% completed)
 Time:            🕛  7.41s
-
-Oleksandrs-MBP:js-automation-wdio oleksandrkhotemskyi$ 
 ```
