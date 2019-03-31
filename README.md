@@ -6,7 +6,7 @@ find your repo in list and turn on builds for it
 See your build results here - https://travis-ci.org/StartITProtractorJS
 
 # startit js ui automation course
-Demo project for startit students
+// Demo project for startit students
 
 
 To make sure everything works in this initial repo:
@@ -37,5 +37,3 @@ Time:            🕛  7.41s
 
 Oleksandrs-MBP:js-automation-wdio oleksandrkhotemskyi$ 
 ```
-
-# Update this readme file once everything is setup!
